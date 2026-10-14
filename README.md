@@ -1,3 +1,2 @@
 # hello-world
-Test nowej gałęzi
-Tra la la la la
+Zmiana na potrzebę zad.4
